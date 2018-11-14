@@ -1,0 +1,39 @@
+body{
+  font-size:13px !important;
+}
+.row {
+    margin-right: -0px ;
+    margin-left: -0px;
+  }
+
+hr{
+  border-top: 1px #000 !important;
+  border:groove; ;
+}
+
+.btn{
+      margin-bottom: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+  }
+
+
+@media print{
+    body{
+        margin: 1px;
+       
+        
+    }
+    img{
+    width: 130px;
+  }
+  
+  
+  
+}
+
+@page {
+    size: A4 !important;
+    margin: 1px !important;
+    
+}

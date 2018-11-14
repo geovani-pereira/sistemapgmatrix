@@ -1,0 +1,138 @@
+
+#btnAdd{
+    margin-top: 24px;
+    margin-bottom: 5px;
+}
+#totalProdutos{
+    background-color: #f2f2f2;
+    border: 1px solid lightgray;
+    color: #000;
+}
+#totalServicos{
+   background-color: #f2f2f2;
+    border: 1px solid lightgray;
+    color: #000;
+}
+.teste{
+    width: 95% !important;
+    margin-left: 20px;
+}
+
+.acolor{
+    color:white; /* cor do link do adicionar produto produtos */
+}
+
+.imprimir{
+      margin-bottom: 5px !important;
+      margin-top:5px !important;
+      border:none;
+  }
+  
+  .painel-edt{
+      border:none !important;
+  }
+  
+  
+  .thumbnail{
+      height: 360px !important;
+  }
+  
+   .grayy{
+            background: #dcdcdc;
+            padding: 20px;
+            color: #000;
+            font-weight: bold !important;
+            font-size: large !important;
+        }
+.listarParcela a{
+  margin:25px !important;
+}
+
+
+.easy-autocomplete{width: 100% !important;}
+
+.bg-white {
+    background: #fff;
+}
+
+.box-options-header {
+    padding: 10px;
+    border-bottom: 1px solid #e4e4e4;
+    box-shadow: 1px 3px 6px #e4e4e4;
+}
+
+.pad-top-15{
+  padding-top: 15px;
+}
+.caixa {
+    background: #004600;
+    box-shadow: 0px 3px 5px #afafaf;
+}
+.caixa:hover {
+    box-shadow: 0px 10px 30px #afafaf;
+}
+
+.caixa .acolor:hover{
+  color:#0dd302;
+}
+/*
+.acolor{
+  color: #000!important;
+}
+
+*/
+.panel-footer{
+  color: #000!important;
+}
+
+.dataTables_wrapper label {
+    font-weight: 100;
+}
+
+
+.dataTables_length select{
+  border-radius: 4px;
+}
+
+.dataTables_filter label input{
+      border: 0.5px solid #a5a5a5;
+      width: 250px;
+    height: 30px;
+    border-radius: 6px;
+    /* background-color: #e4e4e4; */
+    font-weight: 100;
+}
+
+.paginate_button.current {
+  color:#fff !important;
+  border-color:#4cae4c;
+    border-radius: 6px !important;
+    background: #5cb85c !important;
+}
+
+.paginate_button.current:hover {
+    
+    background: #409d44 !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover{
+  color:#fff !important;
+  border-color:#4cae4c !important;
+  border-radius: 6px !important;
+  background: #409d44 !important;
+
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover{
+  color:#fff;
+}
+
+
+.btn-height a{
+
+    height: 32px !important;
+  }
+
+.marginbot{
+      margin-bottom: 10px;
+  }
